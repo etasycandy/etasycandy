@@ -77,7 +77,7 @@
   <p align="center">
     <a href="https://github.com/EtasyCandy"><img alt="EC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EtasyCandy&theme=bear&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
     <img alt="EC's GitHub Profile Summary" src="https://github-readme-streak-stats.herokuapp.com/?user=EtasyCandy&theme=bear&hide_border=true" height="192px"/>
-    <img alt="EC's GitHub Profile Summary" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtasyCandy&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
+    <img alt="EC's GitHub Profile Summary" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtasyCandy&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="490px"/>
 <br/>	  
   </p>
 
